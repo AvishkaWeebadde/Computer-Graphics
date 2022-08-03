@@ -1,3 +1,3 @@
 ﻿  Source.cpp
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  vulkan-triangle.vcxproj -> D:\projects\vulkan-projects\vulkan-triangle\x64\Debug\vulkan-triangle.exe
+  vulkan-triangle.vcxproj -> D:\projects\Computer Graphics\vulkan-projects\vulkan-triangle\x64\Debug\vulkan-triangle.exe

@@ -1,1 +1,2 @@
 D:\projects\vulkan-projects\vulkan-triangle\x64\Debug\vulkan-triangle.exe
+D:\projects\Computer Graphics\vulkan-projects\vulkan-triangle\x64\Debug\vulkan-triangle.exe

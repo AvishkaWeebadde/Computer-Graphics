@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\projects\vulkan-projects\vulkan-triangle\x64\Debug\vulkan-triangle.exe</FullPath>
+      <FullPath>D:\projects\Computer Graphics\vulkan-projects\vulkan-triangle\x64\Debug\vulkan-triangle.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
