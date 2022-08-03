@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\OpenGL\graphPlot\graphPlot\Source.cpp(36,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  graphPlot.vcxproj -> D:\OpenGL\graphPlot\Debug\graphPlot.exe

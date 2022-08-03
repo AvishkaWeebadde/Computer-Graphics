@@ -1,0 +1,6 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+D:\OpenGL-projects\newDependaciesTest\Lib\freeglutd.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\OpenGL-projects\newDependaciesTest\Lib\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\OpenGL-projects\newDependaciesTest\Debug\newDependaciesTest.exe : fatal error LNK1120: 2 unresolved externals

@@ -1,0 +1,2 @@
+F:\graphics projects\HouseSketch\Debug\HouseSketch.exe
+F:\graphics projects\HouseSketch\Debug\HouseSketch.pdb

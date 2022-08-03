@@ -1,0 +1,2 @@
+F:\graphics projects\recti\Debug\recti.exe
+F:\graphics projects\recti\Debug\recti.pdb

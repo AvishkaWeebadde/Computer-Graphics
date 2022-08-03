@@ -1,0 +1,1 @@
+D:\projects\vulkan-projects\vulkan-triangle\x64\Debug\vulkan-triangle.exe

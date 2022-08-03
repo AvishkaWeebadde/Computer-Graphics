@@ -1,0 +1,13 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol _vkCreateInstance@12 referenced in function "private: void __thiscall Triangle::createInstance(void)" (?createInstance@Triangle@@AAEXXZ)
+Source.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function "private: void __thiscall Triangle::initWindow(void)" (?initWindow@Triangle@@AAEXXZ)
+Source.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function "private: void __thiscall Triangle::cleanUp(void)" (?cleanUp@Triangle@@AAEXXZ)
+Source.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function "private: void __thiscall Triangle::initWindow(void)" (?initWindow@Triangle@@AAEXXZ)
+Source.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function "private: void __thiscall Triangle::initWindow(void)" (?initWindow@Triangle@@AAEXXZ)
+Source.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function "private: void __thiscall Triangle::cleanUp(void)" (?cleanUp@Triangle@@AAEXXZ)
+Source.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function "private: void __thiscall Triangle::mainLoop(void)" (?mainLoop@Triangle@@AAEXXZ)
+Source.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function "private: void __thiscall Triangle::mainLoop(void)" (?mainLoop@Triangle@@AAEXXZ)
+Source.obj : error LNK2019: unresolved external symbol _glfwGetRequiredInstanceExtensions referenced in function "private: void __thiscall Triangle::createInstance(void)" (?createInstance@Triangle@@AAEXXZ)
+C:\VulkanSDK\1.3.216.0\Lib\vulkan-1.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\projects\vulkan-projects\vulkan-dependencies\glfw\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\projects\vulkan-projects\vulkan-triangle\Debug\vulkan-triangle.exe : fatal error LNK1120: 9 unresolved externals
