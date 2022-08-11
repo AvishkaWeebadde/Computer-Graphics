@@ -1,1 +1,0 @@
-D:\projects\OpenGL-projects\new-triangle\x64\Debug\new-triangle.exe

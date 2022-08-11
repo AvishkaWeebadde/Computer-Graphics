@@ -1,3 +1,4 @@
+// default config for opengl window
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
