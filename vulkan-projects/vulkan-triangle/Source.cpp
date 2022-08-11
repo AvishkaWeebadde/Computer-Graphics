@@ -1,3 +1,4 @@
+// default config for a vulkan window
 #define GLFW_INCLUDE_VULKAN
 #include<GLFW/glfw3.h>
 
